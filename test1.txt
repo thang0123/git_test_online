@@ -1,10 +1,17 @@
        Learning Git, Github
-#1 git init, git status, git add, git commit
+#1 git init, git status, git add, git commit, git log
+
 #2 git remote, git remote -v, git remote add
+
 #3 git push (git push -u remote_name local_repository_name)
    git fetch (git fetch remote_name)
-   git merge
-   git pull
+   git merge (git merge master branch_name)
+   git pull  (git pull remote_name)  #pull = fetch + merge
+
 #4 git branch, git branch -a #show branch name
    git branch ( git branch branch_name)
    git checkout (git checkout branch_name) #change to new branch
+
+#5 fix conflict #remake file -> add -> commit
+
+
