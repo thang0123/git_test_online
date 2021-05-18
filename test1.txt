@@ -9,4 +9,5 @@
    git branch ( git branch branch_name)
    git checkout (git checkout branch_name) #change to new branch
 
+#5 fix conflict
 
