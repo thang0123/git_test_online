@@ -10,6 +10,8 @@
 
 #4 git branch, git branch -a #show branch name
    git branch ( git branch branch_name)
+   git branch -m (git branch -m new_branch_name) # change baranch_name
+   git branch -d (git branch -d branch_name) # delete branch
    git checkout (git checkout branch_name) #change to new branch
 
 #5 fix conflict #remake file -> add -> commit
